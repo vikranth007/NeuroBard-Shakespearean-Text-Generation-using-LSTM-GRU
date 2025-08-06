@@ -1,5 +1,5 @@
 # Create a README.md file for the project
-readme_content = """
+
 # NeuroBard: Shakespearean Text Generation using LSTM & GRU
 
 This project demonstrates character-level text generation using deep learning models (LSTM and GRU) trained on Shakespeare's *Hamlet*.
@@ -26,10 +26,12 @@ This project demonstrates character-level text generation using deep learning mo
 ### 1. Install dependencies
 ```bash
 pip install torch streamlit
+```
 
 ### 2. Run the Streamlit app
 ```bash
 streamlit run main.py
+```
 
 ### 3. In your browser:
  - Enter a seed string like "To be, or not to be"
@@ -58,6 +60,7 @@ To be, or not to be, that is the question:
 whether 'tis nobler in the mind to suffer
 the slings and arrows of outrageous fortune,
 or to take arms against a sea of troubles...
+```
 
 ### 🔖 License
 
