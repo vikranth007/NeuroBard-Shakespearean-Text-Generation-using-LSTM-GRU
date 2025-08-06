@@ -1,4 +1,3 @@
-# Create a README.md file for the project
 
 # NeuroBard: Shakespearean Text Generation using LSTM & GRU
 
