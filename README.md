@@ -13,13 +13,14 @@ This project demonstrates character-level text generation using deep learning mo
 
 ## 📁 Project Structure
 
+```text
 📦 NeuroBard/
 ├── hamlet.txt # Source training text
 ├── lstm_model.pth # Trained LSTM model
 ├── gru_model.pth # Trained GRU model
 ├── main.py # Streamlit app to generate text
 └── README.md # Project documentation
-
+```
 
 ## 💡 Usage
 
